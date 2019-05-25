@@ -3,6 +3,8 @@
 
 Based on ThinMatrix's Java Game Engine tutorial on youtube.
 
+Unfinished, because we decided to go a different route in the project.
+
 Dependencies:
   -PyGame
   -PyOpenGL
